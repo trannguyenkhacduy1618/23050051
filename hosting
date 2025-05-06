@@ -1,0 +1,9 @@
+create docker compose configuration directory
+mkdir openremote
+cd openremote
+get file directly from openremote home page
+run command docker-compose up -d
+go to http://localhost
+login
+go to assets create attribute
+write code put into broad control
